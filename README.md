@@ -28,7 +28,7 @@ También hay un par de extensiones bastante útiles que les recomiendo de entrad
 
 ## Tema usado durante el curso
 
-* [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+* [Aura Theme](https://marketplace.visualstudio.com/Test Driven Development (TDD) en React JS (Jest, RTL, MSW).items?itemName=DaltonMenezes.aura-theme)
 
 
 # Wallpapers que uso
