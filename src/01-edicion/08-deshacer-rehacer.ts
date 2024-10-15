@@ -6,8 +6,13 @@
 //*        ⌘ Z
 //*        ⌘ ⇧ Z
 //*        Ctrl +Z
-//*        Ctrl + Shift + Z
+//*       Rehacer todo: Ctrl + Shift + Z
 //*
+
+
+function holaMundo() {
+    return 'Saludos a todos!';
+}
 
 
 //! Demo
